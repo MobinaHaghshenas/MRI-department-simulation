@@ -66,7 +66,7 @@ The reporting workflow represents the process from report preparation and physic
 
 The original editable Visio process model is also included in:
 
-`process/MRI_Process_Flowchart.vsdx`
+`process/mri-examination-flowchart.vsdx and process/mri-reporting-flowchart.vsdx` 
 
 ---
 
