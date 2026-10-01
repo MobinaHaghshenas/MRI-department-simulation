@@ -94,7 +94,7 @@ The simulation includes:
 * Advanced diagnostic processing
 * Patient notification
 
-![Baseline AnyLogic Model](results/figures/baseline-anylogic-model.png)
+![Baseline AnyLogic Model](results/baseline-anylogic-model.png)
 
 The model was run for a simulated duration of **90 hours** to analyze system performance, including MRI process time and resource utilization.
 
@@ -145,7 +145,7 @@ The objective was to improve the utilization of available human resources and in
 
 ### Optimization Convergence
 
-![Optimization Convergence](results/figures/optimization-convergence.png)
+![Optimization Convergence](results/optimization-convergence.png)
 
 The optimization process consisted of **147 iterations**.
 
@@ -155,7 +155,7 @@ The optimization graph shows the progression of the objective function across it
 
 ### Optimization Result
 
-![Optimization Result](results/figures/optimization-result.png)
+![Optimization Result](results/optimization-result.png)
 
 The optimization result summarizes the selected personnel configuration.
 
