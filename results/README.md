@@ -10,7 +10,7 @@ The figures illustrate the implemented AnyLogic model, the optimization process,
 
 The baseline simulation model represents the integrated MRI examination and reporting workflows.
 
-![Baseline AnyLogic Model](figures/baseline-anylogic-model.png)
+![Baseline AnyLogic Model](results/baseline-anylogic-model.png)
 
 The model represents the interaction between patients, healthcare resources, MRI scanners, queues, examination processes, and reporting activities.
 
@@ -20,7 +20,7 @@ The model represents the interaction between patients, healthcare resources, MRI
 
 The optimization experiment evaluates different personnel configurations and tracks the objective function across iterations.
 
-![Optimization Convergence](figures/optimization-convergence.png)
+![Optimization Convergence](results/optimization-convergence.png)
 
 The reported optimization process completed **147 iterations**.
 
@@ -34,7 +34,7 @@ The graph illustrates the progression of the optimization process and the improv
 
 The final optimization output summarizes the selected resource configuration.
 
-![Optimization Result](figures/optimization-result.png)
+![Optimization Result](results/optimization-result.png)
 
 The optimization considers personnel and room-related roles involved in the MRI department, including radiographers, nurses, admissions staff, doctors, consultants, and MRI-room personnel.
 
