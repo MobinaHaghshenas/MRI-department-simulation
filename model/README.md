@@ -5,7 +5,7 @@ This folder contains the AnyLogic implementation of the MRI department simulatio
 ## Model File
 
 ```text
-FinalLogicT3.alp
+MRI_Department_Simulation.alp
 ```
 
 The model represents the MRI examination and reporting workflows developed for the project.
@@ -38,7 +38,7 @@ The simulation model was run for a simulated duration of **90 hours** for system
 To inspect or execute the model, open:
 
 ```text
-FinalLogicT3.alp
+MRI_Department_Simulation.alp
 ```
 
 using AnyLogic.
