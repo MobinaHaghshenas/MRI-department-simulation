@@ -54,13 +54,13 @@ The process diagrams were developed in **Microsoft Visio** and describe the main
 
 ### MRI Examination Workflow
 
-![MRI Examination Workflow](process/mri-examination-flowchart.png)
+![MRI Examination Workflow](process/mri-examination-flowchart.jpg)
 
 The examination workflow represents the patient journey through activities such as registration, EHR checking, consultation, preparation, MRI availability, waiting, contrast-agent administration when required, MRI examination, IV removal, and patient discharge.
 
 ### MRI Reporting Workflow
 
-![MRI Reporting Workflow](process/mri-reporting-flowchart.png)
+![MRI Reporting Workflow](process/mri-reporting-flowchart.jpg)
 
 The reporting workflow represents the process from report preparation and physician review through possible report correction, advanced diagnostic processing, patient notification, and expert consultation.
 
