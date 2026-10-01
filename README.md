@@ -209,12 +209,6 @@ The project therefore combines:
 
 ## Reference
 
-Haghshenas, M., Tale, B., & Shahabi Haghighi, H. (2024).
-
-**Simulation and enhancement of an MRI department using Anylogic.**
-
-10th International Conference on Industrial and Systems Engineering (ICISE 2024), Ferdowsi University of Mashhad, Iran.
-
-
+**Haghshenas, M., Tale, B., & Shahabi Haghighi, H. (2024). "Simulation and enhancement of an MRI department using Anylogic", 10th International Conference on Industrial and Systems Engineering (ICISE2024), Ferdowsi University of Mashhad, Iran.**
 
 ---
