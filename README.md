@@ -215,6 +215,6 @@ Haghshenas, M., Tale, B., & Shahabi Haghighi, H. (2024).
 
 10th International Conference on Industrial and Systems Engineering (ICISE 2024), Ferdowsi University of Mashhad, Iran.
 
-The publication is referenced as the academic basis of this project. 
+
 
 ---
