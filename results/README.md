@@ -10,7 +10,7 @@ The figures illustrate the implemented AnyLogic model, the optimization process,
 
 The baseline simulation model represents the integrated MRI examination and reporting workflows.
 
-![Baseline AnyLogic Model](results/baseline-anylogic-model.png)
+![Baseline AnyLogic Model](results/baseline-anylogic-model.png) 
 
 The model represents the interaction between patients, healthcare resources, MRI scanners, queues, examination processes, and reporting activities.
 
